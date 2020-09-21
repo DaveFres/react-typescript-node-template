@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+      "sourceMap": true,
+      "module": "commonjs",
+      "target": "es5",
+      "jsx": "react",
+      "composite": true,
+    },
+    "include": ["**/*.ts", "**/*.tsx"],
+    "exclude": ["node_modules"],
+    "compileOnSave": false
+}
